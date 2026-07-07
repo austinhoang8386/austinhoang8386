@@ -2,7 +2,7 @@
 
 <!-- Typing animation header -->
 <a href="https://github.com/austinhoang8386">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Austin+Hoang+%F0%9F%91%8B;Software+Engineer;Building+scalable+systems;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Austin+Hoang+%F0%9F%91%8B;Senior+Software+Engineer;Fintech+%C2%B7+Crypto+%C2%B7+Distributed+Systems;AI-Augmented+Development" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,19 +16,22 @@
 
 ## 🚀 About Me
 
-- 💻 I'm a **Software Engineer** passionate about building clean, scalable, and reliable software
-- 🌱 Currently exploring **distributed systems** and **cloud-native architecture**
-- ⚡ I care about **code quality**, **performance**, and **developer experience**
-- 📫 Reach me at **austinkienhoang@gmail.com**
+- 💻 **Senior Software Engineer** with **5+ years** building scalable distributed systems
+- 🏦 Deep **fintech/crypto** domain experience: OTC & P2P trading platforms, crypto deposit/withdraw (BTC, ETH, USDT, TRX), NFT marketplaces, payment systems
+- 🤖 Early production adopter of **AI-augmented engineering** — shipping features end-to-end through agentic workflows: *brainstorm → plan → implement → verify*
+- 🎯 Growing toward a **Tech Lead** role
+- 📫 Reach me at **austinhoang8386@gmail.com**
 
 <br/>
 
 ```typescript
 const austin = {
-  role: "Software Engineer",
-  code: ["TypeScript", "JavaScript", "SQL"],
-  architecture: ["Microservices", "Event-Driven", "REST", "gRPC"],
-  motto: "Simple is better than clever.",
+  role: "Senior Software Engineer",
+  domain: ["Fintech", "Crypto Exchange", "OTC/P2P Trading"],
+  code: ["TypeScript", "JavaScript", "Python", "SQL"],
+  architecture: ["Microservices", "Event-Driven", "gRPC", "GraphQL", "REST"],
+  aiWorkflow: ["Claude Code", "ClaudeKit", "OpenAI Codex", "Cursor"],
+  motto: "AI amplifies a strong engineer — fundamentals first.",
 };
 ```
 
@@ -42,13 +45,31 @@ const austin = {
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,go&theme=dark" alt="Languages" />
 
 ### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=nestjs,express,react,nextjs,graphql&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=nestjs,express,django,react,graphql&theme=dark" alt="Frameworks" />
 
-### Databases & Infrastructure
+### Databases & Messaging
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,rabbitmq&theme=dark" alt="Databases" />
 
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux&theme=dark" alt="DevOps" />
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,grafana&theme=dark" alt="DevOps" />
+
+</div>
+
+---
+
+## 🤖 AI-Augmented Engineering
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/ClaudeKit-1a1a2e?style=for-the-badge&logo=anthropic&logoColor=white" alt="ClaudeKit" />
+<img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/MCP-5A67D8?style=for-the-badge&logoColor=white" alt="MCP" />
+
+<br/><br/>
+
+*Agentic coding workflows: **brainstorm → plan → implement → verify** · multi-agent code review · spec-driven development · prompt & context engineering*
 
 </div>
 
@@ -97,7 +118,7 @@ const austin = {
 
 ## 🤝 Connect With Me
 
-<a href="mailto:austinkienhoang@gmail.com">
+<a href="mailto:austinhoang8386@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/austinhoang8386">

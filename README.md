@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- Typing animation header -->
 <a href="https://github.com/austinhoang8386">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Austin+Hoang+%F0%9F%91%8B;Senior+Software+Engineer;Fintech+%C2%B7+Crypto+%C2%B7+Distributed+Systems;AI-Augmented+Development" alt="Typing SVG" />
+  <img src="assets/banner.svg" alt="Hi there, I'm Austin Hoang - Senior Software Engineer | Fintech · Crypto · Distributed Systems | AI-Augmented Development" width="100%" />
 </a>
 
 <br/>
@@ -12,70 +11,29 @@
 
 </div>
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
-## 🚀 About Me
+## About Me
 
-- 💻 **Senior Software Engineer** with **5+ years** building scalable distributed systems
-- 🏦 Deep **fintech/crypto** domain experience: OTC & P2P trading platforms, crypto deposit/withdraw (BTC, ETH, USDT, TRX), NFT marketplaces, payment systems
-- 🤖 Early production adopter of **AI-augmented engineering** — shipping features end-to-end through agentic workflows: *brainstorm → plan → implement → verify*
-- 🎯 Growing toward a **Tech Lead** role
-- 📫 Reach me at **austinhoang8386@gmail.com**
+<img src="assets/about.svg" alt="Senior Software Engineer with 5+ years building scalable distributed systems. Deep fintech/crypto domain experience: OTC &amp; P2P trading platforms, crypto deposit/withdraw (BTC, ETH, USDT, TRX), NFT marketplaces, payment systems. Early production adopter of AI-augmented engineering — shipping features end-to-end through agentic workflows: brainstorm → plan → implement → verify. Growing toward a Tech Lead role. Reach me at austinhoang8386@gmail.com" width="100%" />
 
-<br/>
+<img src="assets/code.svg" alt="const austin = { role: Senior Software Engineer; domain: Fintech, Crypto Exchange, OTC/P2P Trading; code: TypeScript, JavaScript, Python, SQL; architecture: Microservices, Event-Driven, gRPC, GraphQL, REST; aiWorkflow: Claude Code, ClaudeKit, OpenAI Codex, Cursor; motto: AI amplifies a strong engineer — fundamentals first. }" width="100%" />
 
-```typescript
-const austin = {
-  role: "Senior Software Engineer",
-  domain: ["Fintech", "Crypto Exchange", "OTC/P2P Trading"],
-  code: ["TypeScript", "JavaScript", "Python", "SQL"],
-  architecture: ["Microservices", "Event-Driven", "gRPC", "GraphQL", "REST"],
-  aiWorkflow: ["Claude Code", "ClaudeKit", "OpenAI Codex", "Cursor"],
-  motto: "AI amplifies a strong engineer — fundamentals first.",
-};
-```
+<img src="assets/divider.svg" alt="" width="100%" />
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
+<img src="assets/stack.svg" alt="Languages: TypeScript, JavaScript, Node.js, Python, Go. Backend &amp; Frameworks: NestJS, Express, Django, React, GraphQL. Databases &amp; Messaging: PostgreSQL, MySQL, Redis, MongoDB, RabbitMQ. DevOps &amp; Cloud: Docker, Kubernetes, AWS, Terraform, Grafana" width="100%" />
 
-<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
 
-### Languages
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,go&theme=dark" alt="Languages" />
+## AI-Augmented Engineering
 
-### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=nestjs,express,django,react,graphql&theme=dark" alt="Frameworks" />
+<img src="assets/ai.svg" alt="Claude Code, ClaudeKit, OpenAI Codex, Cursor, MCP. Agentic coding workflows: brainstorm → plan → implement → verify · multi-agent code review · spec-driven development · prompt &amp; context engineering" width="100%" />
 
-### Databases & Messaging
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,rabbitmq&theme=dark" alt="Databases" />
+<img src="assets/divider.svg" alt="" width="100%" />
 
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,grafana&theme=dark" alt="DevOps" />
-
-</div>
-
----
-
-## 🤖 AI-Augmented Engineering
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/ClaudeKit-1a1a2e?style=for-the-badge&logo=anthropic&logoColor=white" alt="ClaudeKit" />
-<img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-<img src="https://img.shields.io/badge/MCP-5A67D8?style=for-the-badge&logoColor=white" alt="MCP" />
-
-<br/><br/>
-
-*Agentic coding workflows: **brainstorm → plan → implement → verify** · multi-agent code review · spec-driven development · prompt & context engineering*
-
-</div>
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -88,19 +46,9 @@ const austin = {
 
 </div>
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=austinhoang8386&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -112,21 +60,17 @@ const austin = {
 
 </div>
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
-<div align="center">
+## Connect With Me
 
-## 🤝 Connect With Me
+<p>
+  <a href="mailto:austinhoang8386@gmail.com"><img src="assets/btn-gmail.svg" alt="Email" height="44" /></a>
+  <a href="https://github.com/austinhoang8386"><img src="assets/btn-github.svg" alt="GitHub" height="44" /></a>
+</p>
 
-<a href="mailto:austinhoang8386@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/austinhoang8386">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<img src="assets/divider.svg" alt="" width="100%" />
 
-<br/><br/>
-
-*⭐ From [austinhoang8386](https://github.com/austinhoang8386) — thanks for stopping by!*
-
-</div>
+<p align="center">
+  <a href="https://github.com/austinhoang8386"><img src="assets/footer.svg" alt="From austinhoang8386 — thanks for stopping by!" width="100%" /></a>
+</p>
